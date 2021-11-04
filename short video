@@ -1,0 +1,60 @@
+See videos.
+Like, comment and engage with content.
+Clutter-free playback and recording modes.
+Follow, unfollow your favorite creators.
+Block or unblock users.
+Instant push notifications with FCM.
+Manage user verification status.
+Disapprove inappropriate videos.
+Download and share with watermark + username.
+Record new video or upload existing.
+Choose music from phone, library or existing video.
+Recording with start/stop timer.
+In-app audio adjustments
+Real time camera filters.
+Apply filters to existing videos.
+Privacy on video clips and comments.
+Start hashtag challenges from admin panel.
+Customizable about screen.
+Emoji keyboard (iOS, Google, Facebook & Twitter).
+Custom image (GIF/JPG/PNG) + link ads from admin panel.
+Banner/interstitial/native ads by Google AdMob.
+Upload clips directly from admin panel (requires FFmpeg).
+Promotional banners from admin panel.
+Admin panel has user, staff and admin roles
+
+Developed with Flutter
+For Android & iOS
+Android 11 Ready
+iOS 14 Ready
+Well-arranged code
+Splash Screen
+Social Media Login Google | Facebook | Apple
+Manage Social Login enable/disable from Admin Panel
+Register and Login using Email with OTP Based verification
+Home Screen with video playing and change video on scroll up/down
+Manage Social Login enable/disable from Admin Panel
+Search Page
+Account Setting Page
+Carousel Slider
+Video Trimming
+Upload Video from gallery
+Add music and record video
+Like Videos
+Share Videos
+Follow Users
+Comments
+Video Watermark
+Report Video
+Nudity Detection using SightEngine API
+Weapons Detection using SightEngine API
+Hate Content Detection using SightEngine API
+Upload Profile Picture
+Block User
+Video Views
+Video Likes
+Choose Sound Track From Played Video
+User Chat
+User Verification
+Verified Profile Tick
+Video Cache
